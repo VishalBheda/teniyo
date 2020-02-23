@@ -1,0 +1,29 @@
+{
+  "name": "teniyo",
+  "version": "0.0.1",
+  "description": "Video Editor using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalBheda/teniyo.git"
+  },
+  "keywords": [
+    "video",
+    "editor",
+    "node",
+    "ffmpeg",
+    "node-canvas"
+  ],
+  "author": "hudo🐦",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishalBheda/teniyo/issues"
+  },
+  "homepage": "https://github.com/VishalBheda/teniyo#readme",
+  "dependencies": {
+    "test-bugger": "^2.2.2"
+  }
+}
