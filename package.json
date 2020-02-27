@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/VishalBheda/teniyo#readme",
   "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
     "test-bugger": "^2.2.2"
   }
 }
